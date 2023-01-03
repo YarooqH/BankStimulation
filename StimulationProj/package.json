@@ -10,7 +10,10 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "axios": "^1.2.2",
+    "json-to-table": "^4.2.1",
+    "react-new-window": "^1.0.1" 
   },
   "devDependencies": {
     "@types/react": "^18.0.26",
